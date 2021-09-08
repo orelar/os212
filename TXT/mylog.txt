@@ -8,3 +8,4 @@ ZCZC W00 20 L03 GitHub Pages related
 ZCZC W00 20 L04 Make all the github setup according to example 
 ZCZC W00 50 L05 Do GSGS for OS Course
 ZCZC W00 05 L06 Make .gitignore
+ZCZC W01 60 L01 Setup Debian
