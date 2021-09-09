@@ -4,4 +4,4 @@
 
 [MY LOGS](TXT/mylog.txt)<br>
 [GITHUB](https://github.com/orelar/os212/)<br>
-[LINKS](LINKS)<br> 
+[LINKS](LINKS)
