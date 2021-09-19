@@ -13,3 +13,17 @@ ZCZC W01 100 L02 OS Zoom Class
 ZCZC W01 30 L06 Read OSC 10
 ZCZC W01 50 L24 Bash, Regex, SED, AWK.
 ZCZC W01 40 L06 Do GSGS for Linear Algebra Course
+ZCZC W02 40 L11 Assignment #1 - Read OSC10 Chapter 16 + Chapter 17
+ZCZC W02 50 L12 Assignment #2 - Try Demos
+ZCZC W02 60 L13 Assignment #3 - Watch Cyber Security Introduction Part 1 and Part 2
+ZCZC W02 10 L14 Assignment #4 - Generate a GnuPG Key Pair
+ZCZC W02 10 L15 Assignment #5 - List of all GnuPG Keys
+ZCZC W02 15 L16 Assignment #6 - Importing ospubkey.txt Key
+ZCZC W02 10 L17 Assignment #7 - Signing OS Public key
+ZCZC W02 15 L18 Assignment #8 - Export Public Key to Repo File
+ZCZC W02 75 L19 Assignment #9 - Update links
+ZCZC W02 20 L20 Assignment #10 - Review peer links
+ZCZC W02 10 L09 Assignment #11 - Write (or Copy) a simple and useful bash script
+ZCZC W02 125 L05 Do GSGS for Top 10 Links Week 02
+ZCZC W02 05 L09 Assignment #12 - Update mylog.txt Week 02
+ZCZC W02 20 L09 Assignment #13 - Write 'myscript.sh' script to generate SHA256SUM and SHA256SUM.asc
