@@ -39,3 +39,47 @@ Diberikan juga ringkasan pemanggilan System Calls bagi Windows dan Unix.
 ### 10. [All About Debian](https://debian-handbook.info/browse/stable/the-debian-project.html)
 Artikel yang berisi panduan lengkap tentang Debian. Diberikan penjelasan mengenai penjelasan apa itu Debian, disediakan link instalisasi Debian, dan informasi lengkap
 lainnya seputar Debian. Artikel ini berguna untuk membuat pemahaman kita lebih baik dan mendalam lagi tentang Debian.
+
+## TOP 10 List of Week 02
+
+### 1. [12 Simple Things You Can Do to Be More Secure Online](https://www.pcmag.com/how-to/12-simple-things-you-can-do-to-be-more-secure-online)
+Artikel yang berisi tips dan trik untuk menjaga keamanan perangkat kita, data kita, koneksi internet kita, dan identitas pribadi kita. Seluruh langkah-langkah yang
+disampaikan dalam artikel ini berguna bagi banyak orang dan membuat kita untuk lebih waspada dalam menggunakan PC ataupun mobile kita dalam kegiatan sehari-hari.
+
+### 2. [Introduction to Cyber Security for Beginner](https://geekflare.com/understanding-cybersecurity/)
+Artikel yang memberikan penjelasan mengenai apa itu Cyber Security dan apa saja threats yang harus kita ketahui dan bagaimana cara pencegahan terbaiknya. Artikel
+ini ramah pemula dan sangat berguna untuk menjadi aware tersendiri ketika beraktivitas secara online dalam kehidupan sehari-hari.
+
+### 3. [Cyber Security Podcast](https://www.youtube.com/watch?v=1UMC3NdweNY&t=724s)
+Video Podcast Youtube yang membahas tentang Cyber Security mulai dari pentingnya Cyber Security, cara membuat password yang lebih kuat, apa itu firewall, pemakaian
+antivirus, apa-apa saja kesalahan yang masih sering dilakukan dan diulangi oleh orang banyak, dan masih banyak lagi. Video tersebut disajikan secara 
+ringkas per bagian videonya dan cara pembawaan materi dalam bentuk podcast ini membuat kita seolah-olah mendengarkan obrolan ringan sehingga sangat nyaman untuk didengarkan
+sambil belajar atau melakukan kegiatan lainnya.
+
+### 4. [Cyber Security Full Course for Beginner](https://www.youtube.com/watch?v=U_P23SqJaDc)
+Video Youtube berdurasi sekitar hampir 5 jam ini memberikan course untuk memperdalam pengetahuan kita mengenai Cyber Security. Video Youtube ini juga ditujukan bagi
+pemula yang baru mempelajari Cyber Security sehingga pembahasan materi dalam video ini tidaklah rumit dan tidak susah untuk dipahami oleh pemula.
+
+### 5. [Introduction to C](https://www.cprogramming.com/tutorial/c/lesson1.html)
+Artikel yang berisi pembahasan lengkap seputar C programming. Artikel ini juga secara terurut membahas C programming dimulai dari pemakaian variables, pemakaian
+if statements, looping, functions, file I/O, typecasting, dan masih banyak lagi. Artikel ini sangat berguna teruntuk bagi perkuliahan Sistem Operasi ini.
+
+### 6. [C Programming Cheat Sheet](https://dev.to/codelyf/c-programming-cheat-sheet-3h4d)
+Cheat sheet untuk C programming yang berguna dalam menunjang perkuliahan Sistem Operasi. Cheat sheet yang diberikan juga dibagi secara sistematis dan lengkap.
+
+### 7. [SIP on MacOS](https://eshop.macsales.com/blog/45473-we-explain-what-system-integrity-protection-on-mac-is-and-how-to-control-it/)
+Artikel yang membahas mengenai System Integrity Protection yang ada dalam MacOS. Artikel ini menjelaskan apa itu SIP, bagaimana cara menggunakannya dengan baik dalam MacOS kita,
+dan bagaimana sistem kerjanya.
+
+### 8. [Encrypting and Decrypting Using GnuPG in Linux](https://www.geeksforgeeks.org/encrypting-and-decrypting-the-files-using-gnupg-in-linux/)
+Artikel yang berisi tentang penggunaan GnuPG melalui Terminal linux. Dari artikel ini memberikan pengetahuan baru bagi saya bagaimana cara melakukan Encrypting dan Decrypting
+file-file memakai GnuPG.
+
+### 9. [Cryptography for Beginners](https://www.youtube.com/watch?v=5jpgMXt1Z9Y)
+Video Youtube yang memberikan pembahasan materi tentang dasar-dasar dari Cryptography. Video ini menjelaskan secara runtut dan jelas, namun pembawaan materi yang masih bisa
+saya katakan mudah untuk dipahami oleh pemula. Video ini sangat cocok untuk memperdalam pengetahuan kita seputar Cryptography.
+
+### 10. [Career in Cyber Security](https://online.champlain.edu/blog/top-reasons-to-consider-cybersecurity-career)
+Artikel yang berisi peluang untuk berkarier dalam bidang Cyber Security yang dapat menjadi motivasi untuk memperdalam ilmu seputar Cyber Security. Hal ini juga termasuk urgent
+mengingat keadaan saat ini yang dimana kebocoran data sering terjadi.
+
