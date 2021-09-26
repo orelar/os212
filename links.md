@@ -83,3 +83,19 @@ saya katakan mudah untuk dipahami oleh pemula. Video ini sangat cocok untuk memp
 Artikel yang berisi peluang untuk berkarier dalam bidang Cyber Security yang dapat menjadi motivasi untuk memperdalam ilmu seputar Cyber Security. Hal ini juga termasuk urgent
 mengingat keadaan saat ini yang dimana kebocoran data sering terjadi.
 
+## TOP 5 List of Week 03
+
+### 1. [What is Virtual System?](https://opensource.com/article/19/3/virtual-filesystems-linux)
+Sebuah artikel yang berisi penjelasan mengenai apa itu Virtual System dalam sistem komputer kita. Ada juga penjelasan mengenai bagaimana cara bekerja sebuah Virtual System dalam OS komputer kita, sehingga kita semakin mengenali bagaimana kerja Virtual System itu.
+
+### 2. [What is File?](https://www.ibm.com/docs/en/aix/7.1?topic=administration-operating-system-files)
+Dokumentasi lengkap seputar file. Dijelaskan juga tipe tipe file, administrasi dalam file, directory links dalam file, dan masih banyak lagi. Dokumentasi ini bagus untuk memberikan pemahaman mendalam tentang file.
+
+### 3. [The /usr Hierarchy](https://refspecs.linuxfoundation.org/FHS_3.0/fhs/ch04.html)
+Artikel yang menjelaskan secara detail tentang /usr Hierarchy, seluruh dokumentasi sangat lengkap membahas tentang /usr hierarchy dimulai dari /usr/bin, /usr/include, /usr/lib, dan masih banyak lagi.
+
+### 4. [GUID](https://betterexplained.com/articles/the-quick-guide-to-guids/)
+Artikel tentang GUID, dijelaskan secara ringkas mengenai pengenalan awal terhadap GUID yang direkomendasikan kepada pemula. Artikel ini bagus sebagai pengenalan awal kita tentang apa itu GUID.
+
+### 5. [18 tar command in linux](https://www.tecmint.com/18-tar-command-examples-in-linux/)
+Artikel yang berisi kumpul tar command yang membantu kita selama menggunakan Linux. Artikel ini saya rekomendasikan karena dalam artikel ini dijelaskan bagaimana penggunaan tar command dan memperdalam pemahaman kita mengenai apa itu tar command yang dibawakan secara ringkas dan ringan.

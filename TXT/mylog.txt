@@ -27,3 +27,12 @@ ZCZC W02 10 L09 Assignment #11 - Write (or Copy) a simple and useful bash script
 ZCZC W02 125 L05 Do GSGS for Top 10 Links Week 02
 ZCZC W02 05 L09 Assignment #12 - Update mylog.txt Week 02
 ZCZC W02 20 L09 Assignment #13 - Write 'myscript.sh' script to generate SHA256SUM and SHA256SUM.asc
+ZCZC W03 10 L14 Assignment #4 - Check if ".bash_aliases" is up to date
+ZCZC W03 30 L15 Assignment #5 - Create an extra virtual disk
+ZCZC W03 60 L16 Assignment #6 - Update my bookmark links
+ZCZC W03 10 L17 Assignment #7 - Review peer links
+ZCZC W03 05 L18 Assignment #8 - Update mylog.txt
+ZCZC W03 60 L06 Read OSC10 chapter 13 + 14 + 15
+ZCZC W03 20 L11 Assignment #1 - Try W03 demos
+ZCZC W03 35 L13 Assignment #3 - Try previous midterm problems
+ZCZC W03 05 L19 Assignment #9 - Submit Week03 assignments
