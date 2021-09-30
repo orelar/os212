@@ -99,3 +99,37 @@ Artikel tentang GUID, dijelaskan secara ringkas mengenai pengenalan awal terhada
 
 ### 5. [18 tar command in linux](https://www.tecmint.com/18-tar-command-examples-in-linux/)
 Artikel yang berisi kumpul tar command yang membantu kita selama menggunakan Linux. Artikel ini saya rekomendasikan karena dalam artikel ini dijelaskan bagaimana penggunaan tar command dan memperdalam pemahaman kita mengenai apa itu tar command yang dibawakan secara ringkas dan ringan.
+
+## TOP 10 List of Week 04
+
+### 1. [Memory Management in OS](https://www.guru99.com/os-memory-management.html)
+Sebuah artikel yang berisi penjelasan mengenai sistem manajemen dalam suatu Operating System. Dengan adanya memory management dalam OS, meningkatkan kinerja memori dalam OS kita. Artikel ini berisi banyak bagian yang sudah diatur secara sistematis dan penjelasan dalam website ini mudah dipahami.
+
+### 2. [What is Page Table?](https://www.studytonight.com/operating-system/structure-of-page-table-in-operating-systems)
+Artikel ini membahas mengenai struktur dari Page Table. Artikel ini memberikan penjelasan menyeluruh dan lengkap karakteristik dan teknik-teknik yang ada dalam Page Table disertai contoh gambar yang semakin membantu memahami apa itu Page Table.
+
+### 3. [Memory Allocation](https://www.cs.uah.edu/~rcoleman/Common/C_Reference/MemoryAlloc.html)
+Artikel yang menjelaskan secara detail tentang bagaimana proses alokasi dalam memori. Artikel ini menyertakan sintaks alokasi memori, pembahasan The Heap, dan terdapat info menarik yaitu Foot Shot Warnings (Lelucon khas dari programmer C seputar hal-hal yang perlu diwaspadai ketika mengalokasikan memori). 
+
+### 4. [mmap](https://www.youtube.com/watch?v=8hVLcyBkSXY)
+Video Course Youtube berdurasi sekitar 23 menit ini membahas tentang bagaimana melakukan memory mapping dengan efisien dalam Linux.  
+
+### 5. [IA-32 Architecture](https://www.youtube.com/watch?v=YkXq7_P1ZvU)
+Video Youtube berdurasi sekitar 22 menit ini merupakan webinar yang dibawakan oleh Raghav Ankur. Webinar ini membahas tentang pengenalan Intel's 32-bit CPU dalam bidang embedded systems, wearable, dan domain IoT.
+
+### 6. [x86-64](https://techterms.com/definition/x86-64)
+Artikel yang berisi pembahasan lengkap tentang CPU dengan arsitektur x86-64.
+
+### 7. [Big-Endian vs Little-Endian](https://www.freecodecamp.org/news/what-is-endianness-big-endian-vs-little-endian/)
+Artikel berisi pembahasan mengenai cara kerja komputer dalam membaca bytes secara Little-Endian dan Big-Endian. Artikel ini bagus sebagai pemahaman lebih dalam untuk membedakan cara penyimpanan bytes komputer dengan cara Big-Endian dan Little-Endian.
+
+### 8. [Memory Management Unit (MMU)](https://www.techopedia.com/definition/4768/memory-management-unit-mmu)
+Memory Management Unit merupakan hardware komputer yang mengatur virtual memory dan caching operations dalam CPU. 
+
+### 9. [Dynamic and Static Libraries in Linux](https://opensource.com/article/20/6/linux-libraries)
+Artikel ini membahas tentang perbedaan dasar dari dynamic dan static libraries yang ada dalam Linux. Dibahas juga sintaks untuk melakukan linking, dynamic loading, dan masih banyak lagi.
+
+### 10. [Pointers in C Language](https://www.tutorialspoint.com/cprogramming/c_pointers.htm)
+Artikel yang berisi tutorial seputar Pointers dalam bahasa C. Tutorial ini sudah dibagi per bagiannya dan diberikan pembahasan setiap sintaksnya serta fungsi dari setiap sintaks untuk memahami bagaimana melakukan Pointers dalam bahasa C.
+
+
