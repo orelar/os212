@@ -46,3 +46,12 @@ ZCZC W04 40 L13 Assignment #3 - Try previous midterm problems
 ZCZC W04 20 L11 Assignment #4 - Install Package List 2 (TLPI)
 ZCZC W04 50 L13 Assignment #5 - Fetch and Extract File "WEEK04.tar.bz2.asc"
 ZCZC W04 05 L19 Assignment #9 - Submit Week04 assignments
+ZCZC W04 70 L05 Do GSGS for Top 10 Links Week 05
+ZCZC W04 50 L15 Assignment #5 - Update my bookmark links
+ZCZC W04 05 L17 Assignment #7 - Review peer links
+ZCZC W04 10 L18 Assignment #8 - Update mylog.txt
+ZCZC W04 30 L11 Assignment #1 - Read OSC10 chapter 10
+ZCZC W04 45 L12 Assignment #2 - Try W05 demos
+ZCZC W04 40 L13 Assignment #3 - Try previous midterm problems
+ZCZC W04 50 L11 Assignment #4 - How Low (Memory) Can You Go?
+ZCZC W04 10 L19 Assignment #9 - Submit Week05 assignments

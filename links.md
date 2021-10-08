@@ -132,4 +132,36 @@ Artikel ini membahas tentang perbedaan dasar dari dynamic dan static libraries y
 ### 10. [Pointers in C Language](https://www.tutorialspoint.com/cprogramming/c_pointers.htm)
 Artikel yang berisi tutorial seputar Pointers dalam bahasa C. Tutorial ini sudah dibagi per bagiannya dan diberikan pembahasan setiap sintaksnya serta fungsi dari setiap sintaks untuk memahami bagaimana melakukan Pointers dalam bahasa C.
 
+## TOP 10 List of Week 05
+
+### 1. [What is Virtual Memory?](https://searchstorage.techtarget.com/definition/virtual-memory)
+Sebuah artikel yang berisi penjelasan mengenai Virtual Memory. Diberikan penjelasan mengenai bagaimana cara kerja dari virtual memory dan ada juga penjelasan mengenai tipe-tipe dari Virtual Memory.
+
+### 2. [FIFO Page Replacement](https://www.youtube.com/watch?v=16kaPQtYo28)
+Video Youtube berdurasi sekitar 15 menit ini membahas secara mendetail mengenai FIFO (First-In-First-Out) Page Replacement. Diberikan contoh soal mengenai FIFO Replacement Methods yang membuat kita semakin memahami algoritma dari FIFO Replacement Methods.
+
+### 3. [Basic Page Replacement](http://boron.physics.metu.edu.tr/ozdogan/OperatingSystems/week10/node8.html)
+Artikel tentang rangkuman singkat dari Basic Page Replacement. Rangkuman singkat dari artikel ini sangatlah membantu memberikan pemahaman seputar Basic Page Replacement. 
+
+### 4. [Demand Paging](https://www.javatpoint.com/os-demand-paging)
+Artikel yang berisi penjelasan mengenai Demand Paging dalam Virtual Memory. Artikel ini juga membahas apa itu Page Fault dan Thrashing disertai dengan rumusnya. 
+
+### 5. [Frames](https://www.geeksforgeeks.org/operating-system-allocation-frames/)
+Artikel yang menjelaskan seputar bagaimana alokasi frames dari Virtual Memory. Artikel ini juga menjelaskan Global Allocation dan Local Allocation disertai algoritma, kelebihan, dan kekurangan dari masing-masing alokasi.
+
+### 6. [Non-Uniform Memory Access](https://www.sciencedirect.com/topics/computer-science/non-uniform-memory-access)
+Artikel yang berisi pembahasan lengkap tentang Non-Uniform Memory Access.
+
+### 7. [Buddy System and Slab System](https://www.geeksforgeeks.org/operating-system-allocating-kernel-memory-buddy-system-slab-system/)
+Artikel berisi pembahasan mengenai spesifikasi dari Buddy System dan Slab System yang menjadi alokasi Kernel Memory dalam Virtual Memory. Ada juga dijelaskan kelebihan dari Buddy System dan Slab System sehingga kita bisa memahami masing-masing karakteristik dari keduanya.
+
+### 8. [Page Fault Handling](https://digitalthinkerhelp.com/page-fault-in-os-operating-system-what-is-page-fault-handling/)
+Artikel yang membahas bagaimana penanganan dari page Fault. Disertakan juga terminologi dan diagram cara kerja Page Fault.
+
+### 9. [TLBs and Caches](https://www.youtube.com/watch?v=3sX5obQCHNA&list=PLiwt1iVUib9s2Uo5BeYmwkDFUh70fJPxX&index=13)
+Video Lecturing dari Youtube yang berkisar 8 menit ini yang membahas Physical caches, Virtual caches, Virtual address tags, Physical address tags, VIPT, contoh dari Physically Tagged Cache, dan limitasi dari VIPT Cache Size.
+
+### 10. [Solaris OS](https://www.operating-system.org/betriebssystem/_english/bs-solaris.htm)
+Solaris OS merupakan sistem operasi yang berbasis UNIX dan dikembangkan oleh Sun Microsystems dan bertujuan untuk keperluan peladen dan komputasi awan. Artikel yang berisi dokumentasi dari Solaris Operating System dimulai dari Solaris 8, Solaris 9, dan Solaris 10. Artikel ini bagus sebagai pengenalan terhadap Solaris OS.
+
 
