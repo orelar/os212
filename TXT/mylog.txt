@@ -55,3 +55,12 @@ ZCZC W05 45 L12 Assignment #2 - Try W05 demos
 ZCZC W05 40 L13 Assignment #3 - Try previous midterm problems
 ZCZC W05 50 L11 Assignment #4 - How Low (Memory) Can You Go?
 ZCZC W05 10 L19 Assignment #9 - Submit Week05 assignments
+ZCZC W06 80 L05 Do GSGS for Top 10 Links Week 06
+ZCZC W06 50 L15 Assignment #5 - Update my bookmark links
+ZCZC W06 05 L17 Assignment #7 - Review peer links
+ZCZC W06 10 L18 Assignment #8 - Update mylog.txt
+ZCZC W06 30 L11 Assignment #1 - Read OSC10 chapter 3 and 4
+ZCZC W06 45 L12 Assignment #2 - Try W06 demos
+ZCZC W06 40 L13 Assignment #3 - Try previous midterm problems
+ZCZC W06 50 L14 Assignment #4 - Fork() and Shared Memory
+ZCZC W06 05 L19 Assignment #9 - Submit Week06 assignments

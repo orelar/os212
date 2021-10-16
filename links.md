@@ -164,4 +164,36 @@ Video Lecturing dari Youtube yang berkisar 8 menit ini yang membahas Physical ca
 ### 10. [Solaris OS](https://www.operating-system.org/betriebssystem/_english/bs-solaris.htm)
 Solaris OS merupakan sistem operasi yang berbasis UNIX dan dikembangkan oleh Sun Microsystems dan bertujuan untuk keperluan peladen dan komputasi awan. Artikel yang berisi dokumentasi dari Solaris Operating System dimulai dari Solaris 8, Solaris 9, dan Solaris 10. Artikel ini bagus sebagai pengenalan terhadap Solaris OS.
 
+## TOP 10 List of Week 06
+
+### 1. [What is fork() system call?](https://www.csl.mtu.edu/cs4411.ck/www/NOTES/process/fork/create.html)
+Sebuah artikel yang berisi penjelasan mengenai system call fork() dalam C. Artikel ini menjelaskan dengan rinci mengenai pengertian fork(), ada juga sintaks-sintaks untuk menjelaskan fork(), dan diberikan ilustrasi gambar untuk lebih memahami fork().
+
+### 2. [Thread Local Storage (TLS)](https://titanwolf.org/Network/Articles/Article?AID=ea2063e9-b494-48f0-93a3-7441170cb314#gsc.tab=0)
+Artikel yang membahas cara kerja Thread Local Storage (TLS) dalam sistem operasi Windows.
+
+### 3. [execlp()](https://www.qnx.com/developers/docs/6.5.0SP1.update/com.qnx.doc.neutrino_lib_ref/e/execlp.html)
+Artikel tentang penjelasan dari execlp() di C. Artikel ini memuat sintaks yang digunakan ketika menggunakan execlp() dalam C dan ada juga rangkuman mengenai exec() lainnya dilengkapi keterangannya masing-masing. 
+
+### 4. [fflush()](https://www.tutorialspoint.com/c_standard_library/c_function_fflush.htm)
+Artikel yang berisi penjelasan mengenai function library dari C yaitu fflush(). Artikel ini menjelaskan apa kegunaan dari fflush() disertakan juga sintaks untuk lebih memahami fflush(). 
+
+### 5. [User Level Thread vs Kernel Level Thread](https://alldifferences.net/difference-between-user-level-and-kernel-level-thread/)
+Artikel yang memberikan perbedaan mendasar dari User Level Thread dan Kernel Level Thread. Artikel ini juga memberikan keunggulan dan kelemahan masing-masing dari User Level Thread dan Kernel Level Thread.
+
+### 6. [Threads in Operating System](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/4_Threads.html)
+Artikel yang berisi pembahasan lengkap tentang Threads dalam sistem operasi. Artikel ini menyertakan ilustrasi, sintaks, dan macam-macam bagian dari Threads.
+
+### 7. [Processes in Operating System](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/3_Processes.html)
+Artikel berisi pembahasan process dalam sistem operasi. Artikel ini menyertakan penjelasan dari bagaimana process dalam sistem operasi bekerja, disertakan ilustasi dan sintaks untuk lebih memahami process. 
+
+### 8. [Zombie Process and Orphan Process](https://shivammitra.com/operating%20system/zombie-and-orphan-process-in-opearting-system/#)
+Artikel yang membahas perbedaan mendasar dari Zombie Process dan Orphan Process. Diberikan juga contoh kode masing-masing dari Zombie Process dan Orphan Process untuk membantu kita lebih memahami perbedaan Zombie Process dan Orphan Process.
+
+### 9. [Inter Process Communication (IPC) - Pipes](https://www.tutorialspoint.com/inter_process_communication/inter_process_communication_pipes.htm)
+Artikel berisi penjelasan dari apa itu Pipe. Artikel ini memberikan penjelasan sintaks dan juga ilustrasi cara bekerja pipes.
+
+### 10. [Process Control Back (PCB)](https://www.geeksforgeeks.org/process-table-and-process-control-block-pcb/)
+Artikel yang berisi penjelasan mengenai Process Control Back, dijelaskan juga mengenai bagian-bagian dari Process Control Back disertakan ilustrasi cara kerja PCB.
+
 
