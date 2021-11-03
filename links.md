@@ -196,4 +196,36 @@ Artikel berisi penjelasan dari apa itu Pipe. Artikel ini memberikan penjelasan s
 ### 10. [Process Control Back (PCB)](https://www.geeksforgeeks.org/process-table-and-process-control-block-pcb/)
 Artikel yang berisi penjelasan mengenai Process Control Back, dijelaskan juga mengenai bagian-bagian dari Process Control Back disertakan ilustrasi cara kerja PCB.
 
+## TOP 10 List of Week 07
+
+### 1. [Introduction of Process Synchronization](https://www.geeksforgeeks.org/introduction-of-process-synchronization/)
+Sebuah artikel yang berisi penjelasan awal seputar materi Process Synchronization yang dibahas pada week 07. Artikel menjadi pengantar awal yang bagus dalam memberikan pemahaman awal dan apa-apa saja yang akan dipelajari untuk materi pada week 07.
+
+### 2. [Preemptive Kernel vs Non-Preemptive Kernel](https://www.geeksforgeeks.org/difference-between-preemptive-and-non-preemptive-kernel-in-os/)
+Artikel yang membahas perbedaan antara Preemptive Kernel dan Non-Preemptive Kernel. Diberikan tabel yang membuat kita semakin mudah mengetahui apa-apa saja perbedaan mendasar antara Preemptive Kernel dan Non-Preemptive Kernel.
+
+### 3. [Kernel Dispatcher Objects](https://www-user.tu-chemnitz.de/~heha/oney_wdm/ch04e.htm)
+Artikel berisi rangkuman penjelasan untuk Kernel Dispatcher Objects. 
+
+### 4. [Race Condition (Software)](https://devopedia.org/race-condition-software)
+Artikel yang berisi penjelasan mengenai Race Condition dari segi softwarenya. Artikel ini memberikan ilustrasi gambar dan kode agar kita semakin memahami Race Condition.
+
+### 5. [Peterson's Problem](https://www.tutorialspoint.com/peterson-s-problem)
+Artikel yang menjelaskan Peterson's Problem. Artikel ini menjelaskan sintaks kode dari Peterson's Problem disertakan juga kelemahan dari pemakaian Peterson's Problem itu sendiri.
+
+### 6. [Mutex Lock Code](https://docs.oracle.com/cd/E19455-01/806-5257/sync-12/index.html)
+Artikel yang berisi contoh-contoh kode untuk Mutex Lock. Setiap contoh kodenya disertakan penjelasan detail sehingga kita semakin memahami algoritma dari Mutex Lock.
+
+### 7. [POSIX APIs](https://docs.oracle.com/cd/E19048-01/chorus5/806-6897/auto1/index.html)
+Artikel berisi dokumentasi untuk POSIX APIs dimulai dari System Calls (2POSIX), FTP Daemon Library (3FTPD), Mathematical Libraries (3M), POSIX Library Functions (3POSIX), RPC Services (3RPC), Library Functions untuk C (3STDC), dan Telnet Services (3TELD). 
+
+### 8. [Introduction to Deadlock](https://www.guru99.com/deadlock-in-operating-system.html)
+Artikel yang berisi pembahasan awal untuk materi Deadlock yang dipelajari dalam week 07.  Artikel ini menyediakan penjelasan detail tentang Deadlock, jenis-jenis Deadlock, perbedaan Deadlock dan Starvation, dan masih banyak lagi.
+
+### 9. [The Dining Philosophers Problem](https://www.youtube.com/watch?v=FYUi-u7UWgw)
+Video Youtube berdurasi sekitar 20 menit ini memberikan pembahasan mengenai The Dining Philosophers. Video ini membahas solusi The Dining Philosophers Problem menggunakan Semaphores dan dibahas juga cara menghindari Deadlocks.
+
+### 10. [Banker's Algorithm](https://www.youtube.com/watch?v=7gMLNiEz3nw)
+Video Youtube berdurasi sekitar 24 menit ini memberikan penjelasan detail dari Banker's Algorithm. Video ini juga membahas bagaimana menghindari Deadlock pada Banker's Algorithm.
+
 

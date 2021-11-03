@@ -64,3 +64,12 @@ ZCZC W06 45 L12 Assignment #2 - Try W06 demos
 ZCZC W06 40 L13 Assignment #3 - Try previous midterm problems
 ZCZC W06 50 L14 Assignment #4 - Fork() and Shared Memory
 ZCZC W06 05 L19 Assignment #9 - Submit Week06 assignments
+ZCZC W07 90 L05 Do GSGS for Top 10 Links Week 07
+ZCZC W07 40 L15 Assignment #5 - Update my bookmark links
+ZCZC W07 05 L17 Assignment #7 - Review peer links
+ZCZC W07 10 L18 Assignment #8 - Update mylog.txt
+ZCZC W07 50 L11 Assignment #1 - Read OSC10 chapter 6, 7, and 8
+ZCZC W07 45 L12 Assignment #2 - Try W07 demos
+ZCZC W07 40 L13 Assignment #3 - Try previous midterm problems
+ZCZC W07 50 L14 Assignment #4 - Synchronization and Shared Memory
+ZCZC W07 05 L19 Assignment #9 - Submit Week07 assignments
