@@ -73,3 +73,10 @@ ZCZC W07 45 L12 Assignment #2 - Try W07 demos
 ZCZC W07 40 L13 Assignment #3 - Try previous midterm problems
 ZCZC W07 50 L14 Assignment #4 - Synchronization and Shared Memory
 ZCZC W07 05 L19 Assignment #9 - Submit Week07 assignments
+ZCZC W08 80 L05 Do GSGS for Top 10 Links Week 08
+ZCZC W08 50 L12 Assignment #2 - Update my bookmark links and review peer links
+ZCZC W08 05 L15 Assignment #5 - Update mylog.txt
+ZCZC W08 30 L11 Assignment #1 - Read OSC10 chapter 5
+ZCZC W08 30 L14 Assignment #4 
+ZCZC W08 240 L16 Assignment #6 
+ZCZC W08 50 L13 Assignment #3 

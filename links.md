@@ -228,4 +228,35 @@ Video Youtube berdurasi sekitar 20 menit ini memberikan pembahasan mengenai The 
 ### 10. [Banker's Algorithm](https://www.youtube.com/watch?v=7gMLNiEz3nw)
 Video Youtube berdurasi sekitar 24 menit ini memberikan penjelasan detail dari Banker's Algorithm. Video ini juga membahas bagaimana menghindari Deadlock pada Banker's Algorithm.
 
+## TOP 10 List of Week 08
+
+### 1. [Introduction of CPU Scheduling Algorithms](https://www.guru99.com/cpu-scheduling-algorithms.html)
+Sebuah artikel yang berisi pengenalan untuk materi week 08 dalam OS. Artikel ini menyediakan informasi lengkap dari CPU Scheduling, contoh, dan juga karakteristiknya dengan ringkas.
+
+### 2. [First Come First Served (FCFS)](https://www.youtube.com/watch?v=7DoP1L9nAAs)
+Video youtube yang berdurasi sekitar 17 menit ini menjelaskan First Come First Served (FCFS) Scheduling. Video ini juga memberikan penjelasan lengkap dari proses yang terjadi dalam FCFS Scheduling. Video ini bagus untuk memahami cara kerja FCFS Scheduling.
+
+### 3. [Shortest Job First (SJF)](https://www.youtube.com/watch?v=t0g9b3SJECg)
+Video youtube yang berdurasi sekitar 28 menit ini menjelaskan tentang apa itu Shortest Job First (SJF) Scheduling. Video ini contoh soal yang membuat kita semakin memahami kinerja dari SJF Scheduling itu sendiri.
+
+### 4. [gawk](https://www.tutorialspoint.com/unix_commands/gawk.htm)
+Artikel yang berisi penjelasan mengenai gawk dalam Linux Command. Artikel ini menjelaskan dengan lengkap variable, sintaks, operator, I/O statements, dan masih banyak lagi.
+
+### 5. [CFS](https://opensource.com/article/19/2/fair-scheduling-linux)
+Artikel yang menjelaskan tentang apa itu CFS dalam Linux. 
+
+### 6. [What is Load Balancing?](https://avinetworks.com/what-is-load-balancing/)
+Artikel yang berisi penjelasan dari Load Balancing. Artikel ini mendefinisikan Load Balancing, mencatumkan sejarah dari Load Balancing, algoritma, manfaat, dan diberikan juga perbandingan dari Software Load Balancers dan Hardware Load Balancers.
+
+### 7. [What is Linux From Scratch?](https://www.linuxfromscratch.org/lfs/)
+Artikel berisi penjelasan tentang Linux From Scratch yang menjadi tugas untuk minggu ini. Artikel ini juga memberikan tujuan dari adanya LFS. 
+
+### 8. [NUMA](https://docs.vmware.com/en/VMware-vSphere/7.0/com.vmware.vsphere.resmgmt.doc/GUID-1DAB8F35-BA86-4063-8459-55D2979B593E.html)
+Artikel yang berisi penjelasan dari sistem NUMA. Artikel ini dibagi per bagian dalam menjelaskan sistem kerja NUMA itu sendiri dan bagaimana cara menggunakan Virtual NUMA.
+
+### 9. [Hard Real Time vs Soft Real Time](https://www.geeksforgeeks.org/difference-between-hard-real-time-and-soft-real-time-system/)
+Artikel ini menjelaskan dengan rinci masing-masing definisi dari Hard Real Time dan Soft Real Time. Artikel ini juga menyediakan tabel perbedaan antara keduanya yang membuat kita semakin memahami bagaimana cara membedakan Hard Real Time dan Soft Real Time itu sendiri.
+
+### 10. [BFS vs DFS](https://www.geeksforgeeks.org/difference-between-bfs-and-dfs/)
+Artikel ini menjelaskan perbedaan dari BFS (Breadth First Search) dan DFS (Depth First Search). Artikel ini memberikan ilustrasi dari BFS dan DFS serta menyediakan tabel perbedaan dari BFS dan DFS.
 
