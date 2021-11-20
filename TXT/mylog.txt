@@ -80,3 +80,11 @@ ZCZC W08 30 L11 Assignment #1 - Read OSC10 chapter 5
 ZCZC W08 30 L14 Assignment #4 
 ZCZC W08 240 L16 Assignment #6 
 ZCZC W08 50 L13 Assignment #3 
+ZCZC W09 80 L05 Do GSGS for Top 10 Links Week 09
+ZCZC W09 15 L12 Assignment #2 - Review peer links
+ZCZC W09 35 L13 Assignment #3 - Update my bookmark
+ZCZC W09 20 L16 Assignment #6 - Update mylog.txt
+ZCZC W09 60 L11 Assignment #1 - Read OSC10 chapter 11
+ZCZC W09 180 L14 Assignment #4 
+ZCZC W09 20 L15 Assignment #5 
+ZCZC W09 30 L17 Assignment #7

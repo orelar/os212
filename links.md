@@ -260,3 +260,34 @@ Artikel ini menjelaskan dengan rinci masing-masing definisi dari Hard Real Time 
 ### 10. [BFS vs DFS](https://www.geeksforgeeks.org/difference-between-bfs-and-dfs/)
 Artikel ini menjelaskan perbedaan dari BFS (Breadth First Search) dan DFS (Depth First Search). Artikel ini memberikan ilustrasi dari BFS dan DFS serta menyediakan tabel perbedaan dari BFS dan DFS.
 
+## TOP 10 List of Week 09
+
+### 1. [Mass Storage Device (MSD)](https://www.techopedia.com/definition/11901/mass-storage-device-msd)
+Sebuah artikel yang berisi penjelasan mengenai MSD. Artikel ini juga menjelaskan dengan detail contoh dari MSD.
+
+### 2. [Introduction of Basic Input Output System (BIOS)](https://www.geeksforgeeks.org/introduction-of-basic-input-output-system-bios/)
+Artikel ini menjelaskan apa itu BIOS, Power On Self Test (POST), lokasi dari BIOS, dan masih banyak lagi.
+
+### 3. [Unified Extensible Firmware Interface (UEFI)](https://whatis.techtarget.com/definition/Unified-Extensible-Firmware-Interface-UEFI)
+Artikel ini menjelaskan apa pngertian dari UEFI, sistem kerja dari UEFI, evolusi EFI ke UEFI, dia=sajikan juga perbedaan antara UEFI dengan BIOS lengkap dengan keunggulan dan kelemahan masing-masing dari UEFI dan BIOS.
+
+### 4. [Budget Fair Queueing](https://www.kernel.org/doc/html/latest/block/bfq-iosched.html)
+Artikel yang berisi penjelasan mengenai BFQ, kegunaan BFQ, sistem kerja dari BFQ, dan masih banyak lagi.
+
+### 5. [RAID](https://www.geeksforgeeks.org/raid-redundant-arrays-of-independent-disks/)
+Artikel yang menjelaskan tentang apa itu Redundant Arrays of Independent Disks (RAID), dijelaskan juga masing-masing tipe dari RAID mulai dari RAID-0, RAID-1, RAID-4, dan RAID-5.
+
+### 6. [Advanced Configuration and Power Interface (ACPI)](https://www.techopedia.com/definition/4962/advanced-configuration-and-power-interface-acpi)
+Artikel yang berisi penjelasan dari ACPI. Artikel ini juga menjelaskan fungsi ACPI yang didukung oleh OS yang mendukungnya.
+
+### 7. [SSD vs HDD](https://www.geeksforgeeks.org/difference-between-hard-disk-drive-hdd-and-solid-state-drive-ssd/)
+Artikel yang menjelaskan perbedaan mendasar dari HDD dan SSD. Artikel ini juga tak lupa menyajikan persamaan antara SSD dan HDD.
+
+### 8. [Disk Structure](https://www.allbca.com/2020/04/disk-structure-in-operating-system.html)
+Artikel yang berisi penjelasan dari disk structure dalam OS.
+
+### 9. [GPT vs MBR](https://www.howtogeek.com/193669/whats-the-difference-between-gpt-and-mbr-when-partitioning-a-drive/)
+Artikel ini menjelaskan perbedaan dari GPT dan MBR ketika melakukan partisi sebuah disk. Dijelaskan juga kegunaan masing-masing dari GPT dan MBR dan juga disertakan keunggulannya.
+
+### 10. [Boot Block](https://educatech.in/boot-block/)
+Artikel ini menjelaskan pengertian dan proses dari Boot Block. 
